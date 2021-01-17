@@ -4,9 +4,6 @@
 	License: pixelarity.com/license
 */
 
-<script src="https://wbot.chat/index.js" token="74b2ccd904b17f0891b9ea046e75017f"></script>
-
-
 (function($) {
 
 	var	$window = $(window),
